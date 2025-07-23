@@ -754,7 +754,7 @@
 		</data>
 		<key>Resources/base_library.zip</key>
 		<data>
-		WUpr5SP7aJCpbn6zZJ+vmepaHrY=
+		6659DlYrhtTRqyxDT2sFZLlMG2U=
 		</data>
 		<key>Resources/cryptography-45.0.5.dist-info/INSTALLER</key>
 		<data>
@@ -13378,15 +13378,6 @@
 			<key>symlink</key>
 			<string>../Resources/dateutil</string>
 		</dict>
-		<key>Frameworks/lib-dynload/_asyncio.cpython-313-darwin.so</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			20aUys4UljegA11OPiSCBtWv1I4=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"db4694cace149637a0035d4e3e248206d5afd48e"</string>
-		</dict>
 		<key>Frameworks/lib-dynload/_bisect.cpython-313-darwin.so</key>
 		<dict>
 			<key>cdhash</key>
@@ -15377,7 +15368,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pTydVOyGP2zS2jb8CXfdqaFixfveD607UtJhNETRMdU=
+			qW09Q8nMpOaqQE6r0vhna5SpfYEDCAuzHL+rivZL8+g=
 			</data>
 		</dict>
 		<key>Resources/charset_normalizer</key>
