@@ -1,0 +1,4 @@
+openpyxl
+pdfplumber
+icalendar
+# tkinter is included with Python standard library 
